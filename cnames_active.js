@@ -126,6 +126,7 @@ var cnames_active = {
     ,"concursos": "mteyss.github.io/concursos" //noCF? (don´t add this in a new PR)
     ,"construyendotrabajo": "mteyss.github.io/construyendotrabajo" //noCF? (don´t add this in a new PR)
     ,"contextify": "abemedia.github.io/jquery-contextify" //noCF? (don´t add this in a new PR)
+    ,"cookies": "franciscop.github.io/cookies.js"
     ,"cordova-multiplatform-template": "ckgrafico.github.io/Cordova-Multiplatform-Template" //noCF? (don´t add this in a new PR)
     ,"cote": "dashersw.github.io/cote" //noCF? (don´t add this in a new PR)
     ,"country": "growmies.github.io/countryjs" //noCF? (don´t add this in a new PR)
